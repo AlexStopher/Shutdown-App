@@ -150,11 +150,11 @@
             this.label4.AutoSize = true;
             this.label4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(32)))), ((int)(((byte)(32)))), ((int)(((byte)(32)))));
             this.label4.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.label4.Location = new System.Drawing.Point(181, 184);
+            this.label4.Location = new System.Drawing.Point(161, 185);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(47, 13);
+            this.label4.Size = new System.Drawing.Size(98, 13);
             this.label4.TabIndex = 9;
-            this.label4.Text = "Time left";
+            this.label4.Text = "Time left in Minutes";
             // 
             // Label_Timer
             // 

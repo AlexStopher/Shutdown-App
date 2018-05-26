@@ -38,7 +38,7 @@ namespace ShutdownApplication
 
             int TimeLeft = int.Parse(TextBox_MinuteInput.Text) - IntervalsElapsed;
 
-            SetText(TimeLeft.ToString());
+            SetText(TimeLeft.ToString() + "Minutes");
             
             //If the intervals reach the number set, shut down
             if (IntervalsElapsed >= int.Parse(TextBox_MinuteInput.Text))
