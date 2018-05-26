@@ -1,0 +1,10 @@
+D:\Users\Angel\source\repos\ShutdownApplication\ShutdownApplication\bin\Debug\ShutdownApplication.exe.config
+D:\Users\Angel\source\repos\ShutdownApplication\ShutdownApplication\bin\Debug\ShutdownApplication.exe
+D:\Users\Angel\source\repos\ShutdownApplication\ShutdownApplication\bin\Debug\ShutdownApplication.pdb
+D:\Users\Angel\source\repos\ShutdownApplication\ShutdownApplication\obj\Debug\ShutdownApplication.csprojResolveAssemblyReference.cache
+D:\Users\Angel\source\repos\ShutdownApplication\ShutdownApplication\obj\Debug\ShutdownApplication.ShutdownMain.resources
+D:\Users\Angel\source\repos\ShutdownApplication\ShutdownApplication\obj\Debug\ShutdownApplication.Properties.Resources.resources
+D:\Users\Angel\source\repos\ShutdownApplication\ShutdownApplication\obj\Debug\ShutdownApplication.csproj.GenerateResource.cache
+D:\Users\Angel\source\repos\ShutdownApplication\ShutdownApplication\obj\Debug\ShutdownApplication.csproj.CoreCompileInputs.cache
+D:\Users\Angel\source\repos\ShutdownApplication\ShutdownApplication\obj\Debug\ShutdownApplication.exe
+D:\Users\Angel\source\repos\ShutdownApplication\ShutdownApplication\obj\Debug\ShutdownApplication.pdb
